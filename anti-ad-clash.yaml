@@ -1,0 +1,5 @@
+#RULE-SET,AntiAd,REJECT
+payload:
+  - '+.+.+
+  - '+.+
+  
